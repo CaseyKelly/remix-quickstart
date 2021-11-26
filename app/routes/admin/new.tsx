@@ -58,5 +58,5 @@ export default function NewPost() {
         </button>
       </p>
     </Form>
-  );
+  )
 }
